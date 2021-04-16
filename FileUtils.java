@@ -1,3 +1,10 @@
+/**
+ * @author: PNT
+ * How to run?
+ * Step 1: javac FileUtils.java
+ * Step 2: java -cp . FileUtils
+ */
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
